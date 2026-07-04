@@ -171,7 +171,7 @@ El artículo aplica modelos de regresión para predecir el **Air Quality Index (
 ├── README.md
 ├── Actividad_1_resuelta_regresion_airquality_ejecutada.ipynb
 ├── AirQualityUCI.csv
-├── muinar05_act1.docx
+├── Varios archivos .pdf
 └── Rúbrica_MIA_TAA_act1.xlsx
 ```
 
